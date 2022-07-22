@@ -1,4 +1,4 @@
-# vue-part1
+# VueAlura
 
 ## Project setup
 ```
